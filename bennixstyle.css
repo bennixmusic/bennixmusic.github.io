@@ -40,7 +40,7 @@ img.twitter{
 
 /*green glow*/
 div.leftglow {
-	width: 0px;
+	width: 0;
     height: 100vh;
 	position: absolute;
 	left: 0;
@@ -48,11 +48,11 @@ div.leftglow {
     box-shadow: 0px 0px 150px 150px #008000;
 }
 div.rightglow {
-	width: 0px;
+	width: 0;
     height: 100vh;
 	position: absolute;
 	right: 0;
 	top: 0;
-    box-shadow: 0px 0px 150px 150px #008000;
+    box-shadow: 0px 0px 10vw 10vw #008000;
 	/*in order: x offset of blur towards the right, y offset of blur towards the bottom, blur size(higher #=more blur), spread size(length of blur), color */
 }
