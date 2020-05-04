@@ -45,7 +45,7 @@ div.leftglow {
 	position: absolute;
 	left: 0;
 	top: 0;
-    box-shadow: 0px 0px 10vw 10vw #008000;
+    box-shadow: 0px 0px 70vw 3vw #008000;
 }
 div.rightglow {
 	width: 0;
@@ -53,6 +53,6 @@ div.rightglow {
 	position: absolute;
 	right: 0;
 	top: 0;
-    box-shadow: 0px 0px 10vw 10vw #008000;
+    box-shadow: 0px 0px 70vw 3vw #008000;
 	/*in order: x offset of blur towards the right, y offset of blur towards the bottom, blur size(higher #=more blur), spread size(length of blur), color */
 }
