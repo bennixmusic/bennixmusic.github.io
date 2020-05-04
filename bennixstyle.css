@@ -8,7 +8,7 @@ div.bennix {
 
 /*describes main bennix logo*/
 img.bennixlogo{
-	width: 600px;
+	width: 30vw;
 }
 
 /*socials*/
@@ -16,32 +16,26 @@ img.youtube{
 	position: absolute;
 	top: 20vh;
 	left: 35vw;
-	width: 150px;	
+	width: 8vw;	
 }
 img.facebook{
 	position: absolute;	
 	top: 20vh;
-	left: 60vw;
-	width: 150px;
+	left: 56vw;
+	width: 8vw;
 }
 img.instagram{
 	position: absolute;	
 	top: 40vh;
 	left: 35vw;
-	width: 150px;
+	width: 8vw;
 }
 img.twitter{
 	position: absolute;	
 	top: 40vh;
-	left: 60vw;
-	width: 150px;
+	left: 56vw;
+	width: 8vw;
 }
-
-
-
-
-
-
 
 
 /*green glow*/
