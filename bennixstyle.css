@@ -14,25 +14,25 @@ img.bennixlogo{
 /*socials*/
 img.youtube{
 	position: absolute;
-	top: 20vh;
+	top: 15vh;
 	left: 25vw;
 	width: 16vw;	
 }
 img.facebook{
 	position: absolute;	
-	top: 20vh;
+	top: 15vh;
 	left: 59vw;
 	width: 16vw;
 }
 img.instagram{
 	position: absolute;	
-	top: 40vh;
+	top: 35vh;
 	left: 25vw;
 	width: 16vw;
 }
 img.twitter{
 	position: absolute;	
-	top: 40vh;
+	top: 35vh;
 	left: 59vw;
 	width: 16vw;
 }
