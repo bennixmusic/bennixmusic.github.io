@@ -11,32 +11,62 @@ img.bennixlogo{
 	width: 30vw;
 }
 
-/*socials*/
+/*optional headers:
+h1.socials{
+	text-align: center;
+	color: darkgrey;
+	font-size: 30px;
+}*/
+
+/*social icons*/
 img.youtube{
 	position: absolute;
 	top: 20vh;
-	left: 25vw;
+	left: 35vw;
 	width: 8vw;	
 }
 img.facebook{
 	position: absolute;	
 	top: 20vh;
-	left: 59vw;
+	left: 57vw;
 	width: 8vw;
 }
 img.instagram{
 	position: absolute;	
 	top: 40vh;
-	left: 25vw;
+	left: 35vw;
 	width: 8vw;
 }
 img.twitter{
 	position: absolute;	
 	top: 40vh;
-	left: 59vw;
+	left: 57vw;
 	width: 8vw;
 }
-
+img.spotify{
+	position: absolute;	
+	top: 60vh;
+	left: 35vw;
+	width: 8vw;
+}
+img.soundcloud{
+	position: absolute;	
+	top: 60vh;
+	left: 57vw;
+	width: 8vw;
+}
+img.applemusic{
+	position: absolute;	
+	top: 80vh;
+	left: 35vw;
+	width: 8vw;
+}
+img.googlemusic{
+	position: absolute;	
+	top: 80vh;
+	left: 57vw;
+	width: 8vw;
+}
 
 /*green glow*/
 div.leftglow {

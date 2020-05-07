@@ -36,6 +36,30 @@ img.twitter{
 	left: 59vw;
 	width: 16vw;
 }
+img.spotify{
+	position: absolute;	
+	top: 55vh;
+	left: 25vw;
+	width: 16vw;
+}
+img.soundcloud{
+	position: absolute;	
+	top: 55vh;
+	left: 59vw;
+	width: 16vw;
+}
+img.applemusic{
+	position: absolute;	
+	top: 75vh;
+	left: 25vw;
+	width: 16vw;
+}
+img.applemusic{
+	position: absolute;	
+	top: 75vh;
+	left: 59vw;
+	width: 16vw;
+}
 
 
 /*green glow*/
