@@ -1,0 +1,58 @@
+body {
+	background-color: black;
+}
+/*centers bennix logo horizontally*/
+div.bennix {
+	text-align: center;
+}
+
+/*describes main bennix logo*/
+img.bennixlogo{
+	width: 30vw;
+}
+
+/*socials*/
+img.youtube{
+	position: absolute;
+	top: 20vh;
+	left: 25vw;
+	width: 8vw;	
+}
+img.facebook{
+	position: absolute;	
+	top: 20vh;
+	left: 59vw;
+	width: 8vw;
+}
+img.instagram{
+	position: absolute;	
+	top: 40vh;
+	left: 25vw;
+	width: 8vw;
+}
+img.twitter{
+	position: absolute;	
+	top: 40vh;
+	left: 59vw;
+	width: 8vw;
+}
+
+
+/*green glow*/
+div.leftglow {
+	width: 0;
+    height: 100vh;
+	position: absolute;
+	left: 0;
+	top: 0;
+    box-shadow: 0px 0px 30vw 4vw #008000;
+}
+div.rightglow {
+	width: 0;
+    height: 100vh;
+	position: absolute;
+	right: 0;
+	top: 0;
+    box-shadow: 0px 0px 30vw 4vw #008000;
+	/*in order: x offset of blur towards the right, y offset of blur towards the bottom, blur size(higher #=more blur), spread size(length of blur), color */
+}
