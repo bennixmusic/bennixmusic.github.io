@@ -22,51 +22,65 @@ h1.socials{
 img.youtube{
 	position: absolute;
 	top: 20vh;
-	left: 35vw;
+	left: 30vw;
 	width: 8vw;	
 }
 img.facebook{
 	position: absolute;	
 	top: 20vh;
-	left: 57vw;
+	left: 46vw;
 	width: 8vw;
 }
 img.instagram{
 	position: absolute;	
-	top: 40vh;
-	left: 35vw;
+	top: 20vh;
+	left: 62vw;
 	width: 8vw;
 }
-img.twitter{
+img.tiktok{
 	position: absolute;	
-	top: 40vh;
-	left: 57vw;
-	width: 8vw;
-}
-img.spotify{
-	position: absolute;	
-	top: 60vh;
-	left: 35vw;
+	top: 46vh;
+	left: 30vw;
 	width: 8vw;
 }
 img.soundcloud{
 	position: absolute;	
-	top: 60vh;
-	left: 57vw;
+	top: 46vh;
+	left: 46vw;
 	width: 8vw;
 }
+img.twitter{
+	position: absolute;	
+	top: 46vh;
+	left: 62vw;
+	width: 8vw;
+}
+img.spotify{
+	position: absolute;	
+	top: 72vh;
+	left: 30vw;
+	width: 8vw;
+}
+
 img.applemusic{
 	position: absolute;	
-	top: 80vh;
-	left: 35vw;
+	top: 72vh;
+	left: 46vw;
 	width: 8vw;
 }
 img.googlemusic{
 	position: absolute;	
-	top: 80vh;
-	left: 57vw;
+	top: 72vh;
+	left: 62vw;
 	width: 8vw;
 }
+img.gallery{
+	position: absolute;	
+	top: 0vh;
+	left: 0vw;
+	width: 0vw;
+}
+
 
 /*green glow*/
 div.leftglow {
